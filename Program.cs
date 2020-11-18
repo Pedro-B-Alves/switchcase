@@ -14,7 +14,7 @@ namespace switchcase
             Console.WriteLine("3 - Coca Fanta");
             Console.WriteLine("4 - Água");
             int resposta = int.Parse(Console.ReadLine());
-            if(resposta > 0 || resposta <5){
+            if(resposta > 0 && resposta <5){
                 Console.WriteLine("Você gostaria com gelo? Sim ou Não");
                 gelo = Console.ReadLine();
             }
