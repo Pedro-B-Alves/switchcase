@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\bin\Debug\netcoreapp3.1\switchcase.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\bin\Debug\netcoreapp3.1\switchcase.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\bin\Debug\netcoreapp3.1\switchcase.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\bin\Debug\netcoreapp3.1\switchcase.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\bin\Debug\netcoreapp3.1\switchcase.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\bin\Debug\netcoreapp3.1\switchcase.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\obj\Debug\netcoreapp3.1\switchcase.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\obj\Debug\netcoreapp3.1\switchcase.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\obj\Debug\netcoreapp3.1\switchcase.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\obj\Debug\netcoreapp3.1\switchcase.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\obj\Debug\netcoreapp3.1\switchcase.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\obj\Debug\netcoreapp3.1\switchcase.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\switchcase\obj\Debug\netcoreapp3.1\switchcase.genruntimeconfig.cache
