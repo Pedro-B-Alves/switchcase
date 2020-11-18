@@ -36,6 +36,9 @@ namespace switchcase
                 case 4:
                 Console.WriteLine("Será enviado uma Água para sua mesa");
                 break;
+                default:
+                Console.WriteLine("Opção Inválida");
+                break;
             } //fim do switch
         }
     }
